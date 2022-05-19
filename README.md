@@ -1,7 +1,9 @@
 # Validação de formulários
 
 API para teste de validação de fómulários no front end e back end
-com o uso das bibliotecas:
+
+O módulo Connect-flash para Node.js permite que os desenvolvedores enviem uma mensagem sempre que um usuário estiver redirecionando para uma página da web especificada. Por exemplo, sempre que um usuário logou com sucesso em sua conta, uma mensagem pisca
+Para isso é necessário o uso das bibliotecas:
 * express-flash 
 * express-session
 * cookie-parser
